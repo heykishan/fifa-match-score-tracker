@@ -1,2 +1,2 @@
-# fifa-head-to-head-tracker
-A head to head tracker built to track Fifa games among friends. Built on Salesforce, can be repurposed to most 1v1 games.
+# A head to head tracker for FIFA
+Built to track h2h scores among friends. Built on a [Salesforce](https://www.salesforce.com/) developer org.
