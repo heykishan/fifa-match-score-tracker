@@ -3,7 +3,7 @@
 This is a minimal Head to Head tracker app built on Salesforce to track game scores and maintain some basic stats among friends.
 It is currently built with FIFA in mind, but can be repurposed to support any similar game with some effort.
 
-## Feature
+## Features
 
 - Create matches, add players and scores.
 - Match status and Player Stats are auto calculated
